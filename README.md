@@ -1,3 +1,2 @@
 # miw
-Repozytoium  zawiera implementacj n/w algorytmów  w język
-Pyton
+Repozytoium  zawiera implementacj n/w algorytmów  w język Python:
